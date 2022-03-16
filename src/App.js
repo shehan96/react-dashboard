@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
-function App() {
+const App = (props) => {
   return (
     <>
-    <h1>Hello World</h1>
+      <h1>Hello World {props.name}</h1>
     </>
   );
 }
