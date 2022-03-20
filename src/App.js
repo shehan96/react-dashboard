@@ -7,6 +7,7 @@ const App = (props) => {
       <p>Test</p>
       <p>Test 2</p>
       <p>Test 3</p>
+      <p>Test 3</p>
     </>
   );
 }
