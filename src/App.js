@@ -6,6 +6,7 @@ const App = (props) => {
       <h1>Hello World {props.name}</h1>
       <p>Test</p>
       <p>Paragraph</p>
+      <p>Paragraph</p>
     </>
   );
 }
