@@ -1,9 +1,7 @@
 const Forms = () => {
     return (
         <>
-        <form>
-            
-        </form>
+        <h1>Form Page</h1>
         </>
     );
 }
